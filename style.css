@@ -1,0 +1,23 @@
+*{
+    background-color: dimgray;
+}
+
+button{
+    background-color: brown;
+}
+
+button:hover{
+    padding: 5px;
+    background-color: blue;
+    transition: 1ms;
+    
+}
+
+input{
+    background-color: blanchedalmond;
+    color: aqua;
+}
+
+input:hover{
+    background-color: blueviolet;
+}
